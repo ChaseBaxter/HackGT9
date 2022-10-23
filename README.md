@@ -1,4 +1,4 @@
-# HackGT9 Search Robot
+# HackGT9: E-VAC
 Chase Baxter, Calvin Sringam, Spencer Bush
 
 At the start of HackGT we set out with the goal of creating a way for first responders to safely and accurately assess the threat level of hazardous interior enviroments, and by and large we achieved this. Our project consists of two major parts: a simulated robot exploring a potentially dangerous path through a room, and a convolution neural network model which analyzes the risk of said path through classification of images taken by the robot in the course of its exploration. 
